@@ -2,7 +2,7 @@
 * @Author: PC
 * @Date:   2019-06-14 17:20:26
 * @Last Modified by:   PC
-* @Last Modified time: 2019-06-17 17:03:24
+* @Last Modified time: 2019-06-17 18:16:58
 */
 		*{
 			padding: 0;
@@ -319,5 +319,8 @@
 		}
 		.content li a:hover{
 			color: green;
+		}
+		a:link{
+			color: black;
 		}
 		
