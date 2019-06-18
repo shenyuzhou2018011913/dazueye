@@ -2,7 +2,7 @@
 * @Author: PC
 * @Date:   2019-06-14 17:20:26
 * @Last Modified by:   PC
-* @Last Modified time: 2019-06-18 10:15:28
+* @Last Modified time: 2019-06-18 10:24:42
 */
 		*{
 			padding: 0;
@@ -35,6 +35,12 @@
 			margin-top: 7px;
 			font-size: 14px;
 			color: black;
+		}
+		.register1 a:visited{
+			color:black;
+		}
+		.register2 a:visited{
+			color:black;
 		}
 		.register2{
 			float: left;
